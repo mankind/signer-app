@@ -8,6 +8,7 @@ gem 'rails', '3.1.0.rc5'
 gem 'pg'
 gem 'heroku'
 gem 'devise', '1.4.2'
+gem 'omniauth'
 
 gem 'therubyracer'
 
